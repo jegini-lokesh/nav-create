@@ -3,10 +3,6 @@ ul {
     border: red solid 2px;
 }
 
-.container2 {
-    border: 2px solid green;
-}
-
-.container {
-    border: 2px solid yellow;
+.container1 {
+    height: 100px;
 }
